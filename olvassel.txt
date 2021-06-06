@@ -1,3 +1,0 @@
-Tisztelt Olvasó!
-A 'Játékprogram egy hétvége alatt! 2.rész' c. kiadványnak új, jelentősen átdolgozott kiadása jelent meg.
-Ehhez az új kiadáshoz új forráskód is tartozik, melynek függvényei nagymértékben átfedésben vannak az első kiadásban közölt forráskóddal.
